@@ -38,4 +38,4 @@ El workflow `.github/workflows/deploy.yml` compila y publica en GitHub Pages al 
 4. El carrito conserva sus productos al recargar.
 5. Tras una primera visita, el service worker puede recuperar los recursos y respuestas ya guardados si se pierde la conexión.
 
-La entrega utiliza el enlace del sitio publicado. El código fuente y la página pública son enlaces distintos. El envío en eCampus se comprueba por separado.
+
