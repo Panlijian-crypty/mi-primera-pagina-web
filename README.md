@@ -4,6 +4,14 @@ Estudiante: **Pan Lijian Wong**. Programación Orientada al Usuario, UCA.
 
 Actividad individual basada en el ejemplo del profesor [Nexxtor/ActividadSincronica19](https://github.com/Nexxtor/ActividadSincronica19). La portada muestra el nombre del estudiante en el H1. Consulta [ORIGEN.md](ORIGEN.md) para ver la fuente y el commit original.
 
+## Sitio publicado
+
+https://panlijian-crypty.github.io/mi-primera-pagina-web/
+
+Repositorio: https://github.com/Panlijian-crypty/mi-primera-pagina-web
+
+GitHub Actions confirmó el despliegue de producción el 21 de noviembre de 2026. Se comprobó la portada con el H1 «Pan Lijian Wong» y la carga del catálogo. El envío de eCampus se comprueba por separado.
+
 ## Ejecutar
 
 Node.js 24 y npm.
